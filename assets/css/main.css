@@ -5,7 +5,7 @@
 #primeraGratis.primeraClaseGratis{
         position: absolute;
     height: 300px;
-    left: 24%;
+    left: 27%;
     top: -5px;
 }
 @media (max-width: 600px) {
